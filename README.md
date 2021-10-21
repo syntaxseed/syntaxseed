@@ -15,7 +15,6 @@ Free and Open Source code, plugins, applications and themes by Canadian web deve
 
 I create plugins for other OSS projects, libraries and packages for PHP projects (installable via Composer), snippets, themes and more. See my list of **pinned** projects below or [browse my repositories](https://github.com/syntaxseed?tab=repositories).
 
-
 |               |               |
 | ------------- |:-------------:|
 | [<img src="assets/projects/terminalfaker.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/terminalfaker) | [Terminal Faker](https://github.com/syntaxseed/terminalfaker) |
@@ -26,7 +25,6 @@ I create plugins for other OSS projects, libraries and packages for PHP projects
 | [<img src="assets/projects/codingforkids.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/codingforkids) | [Coding Resources For Kids](https://github.com/syntaxseed/codingforkids) |
 
 
-
 ## Donate/Contribute
 
 > Pull requests are welcome for my OSS projects. Please reach out and ask first about what you would like to contribute.
@@ -34,8 +32,6 @@ I create plugins for other OSS projects, libraries and packages for PHP projects
 ### Want To Buy Me A Coffee?
 
 Thank you for your interest in contributing to my open source and free code resources and applications. I use **PayPal** and **GitHub Sponsors**. Your contribution helps to pay for hosting, development tools, and to help maintain these projects and more in the future.
-
-<center>
 
 **PayPal:**
 
@@ -46,7 +42,6 @@ Thank you for your interest in contributing to my open source and free code reso
 
 [<img src="assets/sponsor-button.png" border="0" />](https://github.com/sponsors/syntaxseed)
 
-</center>
 
 Please contact me for other contribution methods.
 
