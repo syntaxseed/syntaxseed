@@ -15,25 +15,15 @@ Free and Open Source code, plugins, applications and themes by Canadian web deve
 
 I create plugins for other OSS projects, libraries and packages for PHP projects (installable via Composer), snippets, themes and more. See my list of **pinned** projects below or [browse my repositories](https://github.com/syntaxseed?tab=repositories).
 
-<style>
-    .project{
-        width:80px;
-        height:80px;
-        border:1px solid black;
-        border-radius:5px;
-    }
-    table, tr, td { border:none;}
-</style>
-
 
 |               |               |
 | ------------- |:-------------:|
-| [<img src="assets/projects/terminalfaker.png" class="project" />](https://github.com/syntaxseed/terminalfaker) | [Terminal Faker](https://github.com/syntaxseed/terminalfaker) |
-| [<img src="assets/projects/playball.png" class="project" />](https://github.com/syntaxseed/playball) | [PHP PlayBall](https://github.com/syntaxseed/playball) |
-| [<img src="assets/projects/iplimiter.png" class="project" />](https://github.com/syntaxseed/iplimiter) | [IP Limiter](https://github.com/syntaxseed/iplimiter) |
-| [<img src="assets/projects/dokuwikidokucrypt2.png" class="project" />](https://github.com/syntaxseed/dokucrypt2) | [DokuWiki Plugin: DokuCrypt2](https://github.com/syntaxseed/dokucrypt2) |
-| [<img src="assets/projects/dokuwikithemegreensteel.png" class="project" />](https://github.com/syntaxseed/greensteel-template) | [DokuWiki Theme: GreenSteel](https://github.com/syntaxseed/greensteel-template) |
-| [<img src="assets/projects/codingforkids.png" class="project" />](https://github.com/syntaxseed/codingforkids) | [Coding Resources For Kids](https://github.com/syntaxseed/codingforkids) |
+| [<img src="assets/projects/terminalfaker.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/terminalfaker) | [Terminal Faker](https://github.com/syntaxseed/terminalfaker) |
+| [<img src="assets/projects/playball.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/playball) | [PHP PlayBall](https://github.com/syntaxseed/playball) |
+| [<img src="assets/projects/iplimiter.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/iplimiter) | [IP Limiter](https://github.com/syntaxseed/iplimiter) |
+| [<img src="assets/projects/dokuwikidokucrypt2.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/dokucrypt2) | [DokuWiki Plugin: DokuCrypt2](https://github.com/syntaxseed/dokucrypt2) |
+| [<img src="assets/projects/dokuwikithemegreensteel.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/greensteel-template) | [DokuWiki Theme: GreenSteel](https://github.com/syntaxseed/greensteel-template) |
+| [<img src="assets/projects/codingforkids.png" style="width:100px;height:100px;" />](https://github.com/syntaxseed/codingforkids) | [Coding Resources For Kids](https://github.com/syntaxseed/codingforkids) |
 
 
 
