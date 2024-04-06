@@ -10,7 +10,6 @@ Free and Open Source code, plugins, applications and themes by Canadian web deve
 * [Mastodon](https://phpc.social/@syntaxseed)
 * [Dev.to](https://dev.to/syntaxseed)
 * [My Company: Avinus](https://www.avinus.com/)
-* [Twitter](https://twitter.com/SyntaxSeed)
 
 ## Featured Projects
 
